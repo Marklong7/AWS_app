@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit==1.34.0
+pytest
+boto3
+requests
+pyyaml
+python-dotenv
+networkx

@@ -1,0 +1,56 @@
+2024-06-07 11:04:17,982 - __main__ - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:04:17,982 - __main__ - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:04:17,983 - __main__ - INFO - Loaded selected model: model_lasso
+2024-06-07 11:04:18,308 - __main__ - INFO - Made prediction using Negative Sample
+2024-06-07 11:05:12,841 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:05:12,842 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:05:13,174 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:05:13,174 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:05:13,174 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:05:13,174 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:05:19,560 - app - INFO - Loaded selected model: model1
+2024-06-07 11:05:19,560 - app - ERROR - Selected model not found: model3
+2024-06-07 11:05:25,603 - app - INFO - Loaded selected model: model1
+2024-06-07 11:05:25,603 - app - ERROR - Selected model not found: model3
+2024-06-07 11:08:52,533 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:08:52,533 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:08:52,884 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:08:52,885 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:08:52,885 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:08:52,885 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:09:59,626 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:09:59,627 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:09:59,951 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:09:59,951 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:09:59,951 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:09:59,952 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:10:32,855 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:10:32,855 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:10:33,168 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:10:33,168 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:10:33,168 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:10:33,169 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:11:34,900 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:11:34,900 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:11:35,240 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:11:35,240 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:11:35,241 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:11:35,241 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:13:01,595 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:13:01,595 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:13:01,925 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:13:01,926 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:13:01,926 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:13:01,926 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:13:21,112 - app - ERROR - Error loading model model_lasso: File not found
+2024-06-07 11:13:21,112 - app - ERROR - Error loading model model_logistic: File not found
+2024-06-07 11:13:21,430 - app - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:13:21,430 - app - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:13:21,430 - app - INFO - Loaded selected model: model_lasso
+2024-06-07 11:13:21,431 - app - ERROR - Selected model not found: model_nonexistent
+2024-06-07 11:15:29,501 - __main__ - INFO - Successfully loaded model: model_lasso
+2024-06-07 11:15:29,501 - __main__ - INFO - Successfully loaded model: model_logistic
+2024-06-07 11:15:29,502 - __main__ - INFO - Loaded selected model: model_lasso
+2024-06-07 11:15:29,839 - __main__ - INFO - Made prediction using Negative Sample
+2024-06-07 11:15:30,546 - __main__ - INFO - Loaded selected model: model_lasso
+2024-06-07 11:15:30,905 - __main__ - INFO - Made prediction using Positive Sample

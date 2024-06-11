@@ -1,0 +1,22 @@
+2024-06-07 11:07:37,526 - __main__ - INFO - Loading model_lasso model from s3://iyq5197-cloud/model_lasso.pkl
+2024-06-07 11:07:37,526 - __main__ - INFO - model_lasso model already loaded.
+2024-06-07 11:07:37,526 - __main__ - INFO - Loading model_logistic model from s3://iyq5197-cloud/model_logistic.pkl
+2024-06-07 11:07:37,526 - __main__ - INFO - model_logistic model already loaded.
+2024-06-07 11:08:16,777 - __main__ - INFO - Loading model_lasso model from s3://iyq5197-cloud/model_lasso.pkl
+2024-06-07 11:08:16,777 - __main__ - INFO - model_lasso model already loaded.
+2024-06-07 11:08:16,777 - __main__ - INFO - Loading model_logistic model from s3://iyq5197-cloud/model_logistic.pkl
+2024-06-07 11:08:16,777 - __main__ - INFO - model_logistic model already loaded.
+2024-06-07 11:08:33,255 - __main__ - INFO - Loading model_lasso model from s3://iyq5197-cloud/model_lasso.pkl
+2024-06-07 11:08:33,255 - __main__ - INFO - model_lasso model already loaded.
+2024-06-07 11:08:33,255 - __main__ - INFO - Loading model_logistic model from s3://iyq5197-cloud/model_logistic.pkl
+2024-06-07 11:08:33,255 - __main__ - INFO - model_logistic model already loaded.
+2024-06-07 11:13:31,742 - __main__ - INFO - Loading model_lasso model from s3://iyq5197-cloud/model_lasso.pkl
+2024-06-07 11:13:31,742 - __main__ - INFO - Downloading the model from s3 and then loading.
+2024-06-07 11:13:31,997 - __main__ - INFO - File downloaded from s3: s3://iyq5197-cloud/model_lasso.pkl to the local:./models/model_lasso.pkl
+2024-06-07 11:13:32,414 - __main__ - INFO - model_lasso model loaded successfully.
+2024-06-07 11:13:32,414 - __main__ - INFO - Loading model_logistic model from s3://iyq5197-cloud/model_logistic.pkl
+2024-06-07 11:13:32,414 - __main__ - INFO - model_logistic model already loaded.
+2024-06-07 11:14:15,227 - __main__ - INFO - Loading model_lasso model from s3://iyq5197-cloud/model_lasso.pkl
+2024-06-07 11:14:15,227 - __main__ - INFO - model_lasso model already loaded.
+2024-06-07 11:14:15,227 - __main__ - INFO - Loading model_logistic model from s3://iyq5197-cloud/model_logistic.pkl
+2024-06-07 11:14:15,228 - __main__ - INFO - model_logistic model already loaded.
