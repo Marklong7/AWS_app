@@ -1,9 +1,5 @@
 # Breast Cancer Prediction App
 ## How to Run the code (if using EC2)
-
-### Note: Do the port mapping to this port:- 8501
-### Note: Due to the nature of the breast cancer data, it includes 30 ENCRYPTED features and we do not know their meaning. Therefore, it does not make sense to make the value of these features adjustable, like what we did in the iris app. Therefore, I provide the user with 2 examples, one for Negative case, and one for Positive case, and the user can choose one of them to see if the model works OK. (It though the dataset is about image analysis, but it's unfortunately not)
-
 ```bash
 sudo apt update
 ```
